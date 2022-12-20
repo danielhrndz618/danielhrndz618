@@ -6,5 +6,6 @@ Soy una persona que le gusta aprender tecnologías nuevas, en este espacio encon
 - CSS 
 - SQL
 - Python
+- C##
 - R
 
